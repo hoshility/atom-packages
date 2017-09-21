@@ -1,0 +1,15 @@
+Sublime-Style-Column-Selection@1.7.4
+atom-cursor-indent@0.1.2
+atom-material-syntax@1.0.2
+autocomplete-paths@2.11.0
+autocomplete-sass@0.1.0
+chester-atom-syntax@0.1.1
+color-picker@2.2.5
+emmet@2.4.3
+guess-indent@0.1.0
+highlight-selected@0.13.1
+language-slim@0.6.0
+pigments@0.40.2
+project-manager@3.3.5
+rails-snippets@2.16.0
+
